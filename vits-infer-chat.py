@@ -151,7 +151,7 @@ def main():
 
         gr.Markdown(
             "Originate from \n\n"
-            "- [https://github.com/ilya-scherzo]\n\n"                
+            "- [https://github.com/ilya-scherzo/visChats]\n\n"                
         )
     app.queue(concurrency_count=3).launch(share=True)
 
