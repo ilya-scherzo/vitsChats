@@ -68,9 +68,9 @@
 - 실행
   
   1) 입력
-     ```sh 
+  ```sh 
     streamlit run vits-chat-oai.py
-    ```
+  ```
 
   2) 자동으로 브라우저에 ui가 나옵니다.
 
