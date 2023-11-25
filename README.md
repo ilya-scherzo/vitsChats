@@ -43,7 +43,7 @@
   4) 종속성 두 가지를 설치합니다.
 
     ```sh
-    pip install -r requirement-vits-chats.txt
+    pip install -r requirements-vits-chats.txt
     ```
 
 
