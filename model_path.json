@@ -1,0 +1,4 @@
+{
+    "config_path": "ckpt/config.json",
+    "model_path": "ckpt/G_1164.pth"
+}
