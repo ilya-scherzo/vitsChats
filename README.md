@@ -130,6 +130,10 @@
 
   ----------------------------------------------------------------
 
-  본 저장소는 단순 취미활동이며 비정기적인 업뎃, 확인, 반응이 있을 수 밖에 없습니다.
+ Reference
+ 1. https://github.com/jaywalnut310/vits
+ 2. https://github.com/ouor/vits
+ 3. https://github.com/lmstudio-ai
+ 4. https://platform.openai.com/docs/guides/text-generation/chat-completions-api
+ 5. https://docs.streamlit.io/library/api-reference
 
-  그리고 한국어 모른다고 징징대지 마라. 번역기 써라. 이상.
