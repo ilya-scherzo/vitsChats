@@ -4,7 +4,7 @@
 
 # Streamlit infer for the vitsChats
 
-![image](https://github.com/ilya-scherzo/vitsChats/assets/142293912/7de3276f-c01c-4809-a820-238324b2137c)
+
 
 
 - 두 가지 버전의 Streamlit 호출 스크립트입니다.
