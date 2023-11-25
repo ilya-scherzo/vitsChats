@@ -4,6 +4,9 @@
 
 # vits-Chat complilation Stremlit ui model
 
+![image](https://github.com/ilya-scherzo/vitsChats/assets/142293912/7de3276f-c01c-4809-a820-238324b2137c)
+
+
 - 두 가지 버전의 Streamlit 호출 스크립트입니다.
 
   1. vits webui version + OpenAI api key 입력 버전
@@ -74,7 +77,7 @@
 
   2) 자동으로 브라우저에 ui가 나옵니다.
 
-
+![image](https://github.com/ilya-scherzo/vitsChats/assets/142293912/68eb45b6-3664-4158-bf26-166ded117f34)
 
 
   3) 자기가 선호하는 api model을 선택하고 자신의 api key를 입력합니다.
@@ -83,15 +86,24 @@
 
   4) set parameter를 누르고 정상이면 초록불이 들어옵니다.
 
+![image](https://github.com/ilya-scherzo/vitsChats/assets/142293912/92bf38a2-e9bc-4a75-be57-89a7a695508c)
+
+
   5) 왼쪽의 choose a page를 누르면 settings page가 나옵니다.
 
   6) 프롬프트 입력 창과 vits 파라미터 조절창이 로드됩니다.
+
+    ![image](https://github.com/ilya-scherzo/vitsChats/assets/142293912/1703c1b6-18ca-4ba3-bbbb-e33fc63ec164)
+
 
   7) 자신의 설정에 맞게 조절하시면 됩니다.
 
   8) 설정을 다 하셨으면 다시 왼쪽 choose a page에서 chat을 선택합니다.
 
   9) 채팅창이 나오고 채팅을 하면 됩니다.
+
+      ![image](https://github.com/ilya-scherzo/vitsChats/assets/142293912/e45733ee-b5f5-4059-8c0f-46b50ed8e1be)
+
 
   10) api로 채팅을 하고 text를 로컬이 받아서 추론을 하는 방식이라 딜레이가 있습니다.
 
