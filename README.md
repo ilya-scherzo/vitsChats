@@ -23,7 +23,7 @@
   1) 저장소 복제
 
     ```sh 
-    git clone https://github.com/ilya-scherzo/vitsChat.git
+    git clone https://github.com/ilya-scherzo/vitsChats.git
     ```
 
   2) 저장소 파일을 기존 vits 설치 폴더로 복사합니다.
