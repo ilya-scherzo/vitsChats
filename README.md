@@ -4,14 +4,30 @@
 
 # Streamlit infer for the vitsChats
 
+(2023.12.03 update)
+
+Chat UI 개선, OpenAI API + LM studio model 선택 통합, 세팅 UI 개선 버전
+
+```sh
+  streamlit run vitschats.py
+```
+
+통합 UI 파일 (vitschats.py)을 로드하면 사이드 바에서 모든 설정을 조정하실 수 있습니다.
+
+0. vits model_path.json 수정 - 1. 모델 선택 (또는 사용할 모델명 입력 (예, text-davinci-003)) - 2. 키 입력 - 3. 프롬프트 및 파라미터 세팅 (OpenAI api 사용)
+
+0. vits model_path.json 수정 - 1. Local inference 선택 - 2. 프롬프트 및 파라미터 세팅 (LM studio 사용)
+
+설치법은 기존과 동일합니다. (저장소 파일을 vits 폴더로 복사해 주세요, 의존성 설치 후 사용하시면 됩니다.)
 
 
 
-- 두 가지 버전의 Streamlit 호출 스크립트입니다.
 
-  1. vits webui version + OpenAI api key 입력 버전
+~~- 두 가지 버전의 Streamlit 호출 스크립트입니다.~~
 
-  2. vits webui version + LM studio (local inference server) 버전
+  ~~1. vits webui version + OpenAI api key 입력 버전~~
+
+  ~~2. vits webui version + LM studio (local inference server) 버전~~
 
 ----------------------------------------------------------------
 
