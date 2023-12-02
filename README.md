@@ -20,6 +20,8 @@ Chat UI 개선, OpenAI API + LM studio model 선택 통합, 세팅 UI 개선 버
 
 설치법은 기존과 동일합니다. (저장소 파일을 vits 폴더로 복사해 주세요, 의존성 설치 후 사용하시면 됩니다.)
 
+![image](https://github.com/ilya-scherzo/vitsChats/assets/142293912/5e24c990-df57-4cf8-8dbc-1c33c18d11ba)
+![image](https://github.com/ilya-scherzo/vitsChats/assets/142293912/3855e622-43a3-4d10-bde4-65071cabdaee)
 
 
 
